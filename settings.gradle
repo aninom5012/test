@@ -1,0 +1,3 @@
+include ':mylibrary_rizaldi1'
+include ':app'
+rootProject.name = "TestLibrary"
